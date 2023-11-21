@@ -13,18 +13,15 @@ The functioning is simple:
 
 Once you downloaded my repo, set it as your working directory and type in the python console:
 
-    `
+    
     pip install -r requirements.txt
-    `
-
+    
 ### 2. Use your own images
 
 In the line 25 you have to put the path of the image you want to submit to the models: 
 
-    `
     img = 'path/to/your/image'
-    `
-
+    
 ## Results
 
 ### 1. Example of an original image used 
