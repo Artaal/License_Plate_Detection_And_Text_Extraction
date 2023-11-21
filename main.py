@@ -22,7 +22,7 @@ model_yolo.max_det = 1000  # maximum number of detections per image
 Put the path to your own image below
 """
 
-img = 'C:/Users/arthu/OneDrive/Documents/Projets_Persos/license_plate_text_extraction/images/test_image_1.jpg'
+img = 'C:/Users/arthu/OneDrive/Documents/Projets_Persos/license_plate_text_extraction/images/test_image_2.jpg'
 im = Image.open(img)
 
 
