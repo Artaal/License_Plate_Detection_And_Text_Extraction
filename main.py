@@ -72,30 +72,3 @@ generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)
 output_text = generated_text[1:]
 
 print(f"The plate text is: {output_text}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
